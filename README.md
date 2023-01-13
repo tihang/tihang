@@ -41,7 +41,7 @@
 
 ### :chart_with_upwards_trend: The STATS 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tihang&show_icons=true&count_private=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tihang&show_icons=true&count_private=true&theme=panda)  
 
 [website]: https://tihangrai.com/
 [linkedin]: https://linkedin.com/in/tihangrai
