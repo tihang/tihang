@@ -43,5 +43,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tihang&show_icons=true&count_private=true&theme=panda)  
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tihang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://tihangrai.com/
 [linkedin]: https://linkedin.com/in/tihangrai
