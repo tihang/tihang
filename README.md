@@ -3,16 +3,15 @@
 ### I'm a Web Developer!!
 
 - 🔭 I am working on a react, redux and typescript.
-- 🌱 I’m currently learning data visualization with javascript.😬
+- 🌱 I’m currently learning data visualization.
 - 🥅 2023 Goals: Learn and contribute to Open Source projects.
-- 🤔 I’m looking forward to learn data visualization.
+- 🤔 I’m looking forward to learn data science.
 - ⚡ Fun fact: I love eSports and hiking.
 
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
